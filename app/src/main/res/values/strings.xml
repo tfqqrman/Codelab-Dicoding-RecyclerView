@@ -2,4 +2,7 @@
     <string name="app_name">RecyclerViewApp</string>
     <string name="heroes_name">Nama Pahlawan</string>
     <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="card_view">Card View</string>
 </resources>
